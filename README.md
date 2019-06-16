@@ -9,3 +9,5 @@ https://www.darkreading.com/attacks-breaches/russian-speaking-turla-group-uses-n
 https://www.securityweek.com/russian-state-sponsored-operations-begin-overlap-kaspersky
 
 https://www.securityweek.com/researchers-dissect-powershell-scripts-used-russia-linked-hackers
+
+https://www.securityweek.com/turla-uses-sophisticated-backdoor-hijack-exchange-mail-servers
