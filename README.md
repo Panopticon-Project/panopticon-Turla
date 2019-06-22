@@ -11,3 +11,5 @@ https://www.securityweek.com/russian-state-sponsored-operations-begin-overlap-ka
 https://www.securityweek.com/researchers-dissect-powershell-scripts-used-russia-linked-hackers
 
 https://www.securityweek.com/turla-uses-sophisticated-backdoor-hijack-exchange-mail-servers
+
+https://www.securityweek.com/russia-linked-hackers-hijack-infrastructure-iranian-threat-group
