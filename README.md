@@ -13,3 +13,5 @@ https://www.securityweek.com/researchers-dissect-powershell-scripts-used-russia-
 https://www.securityweek.com/turla-uses-sophisticated-backdoor-hijack-exchange-mail-servers
 
 https://www.securityweek.com/russia-linked-hackers-hijack-infrastructure-iranian-threat-group
+
+https://securelist.com/turla-renews-its-arsenal-with-topinambour/91687/
