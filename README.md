@@ -21,3 +21,5 @@ https://www.scmagazineuk.com/turla-apt-upgrades-attack-arsenal-evade-malware-det
 https://www.securityweek.com/russia-linked-hackers-use-new-trojans-recent-attacks
 
 https://gbhackers.com/reductor-malware/
+
+https://securelist.com/compfun-successor-reductor/93633/?utm_source=newsletter&utm_medium=Email&utm_campaign=sl%20weekly%20digest
