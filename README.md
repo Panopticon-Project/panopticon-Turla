@@ -19,3 +19,5 @@ https://securelist.com/turla-renews-its-arsenal-with-topinambour/91687/
 https://www.scmagazineuk.com/turla-apt-upgrades-attack-arsenal-evade-malware-detectors/article/1591326
 
 https://www.securityweek.com/russia-linked-hackers-use-new-trojans-recent-attacks
+
+https://gbhackers.com/reductor-malware/
