@@ -27,3 +27,5 @@ https://securelist.com/compfun-successor-reductor/93633/?utm_source=newsletter&u
 https://www.itsecuritynews.info/russian-turla-apt-group-hacked-iranian-apt-c2-server-for-backdoor-access-to-expand-the-cyber-attack/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+ItSecurityNewsAggregated+%28IT+Security+News%29
 
 https://www.securityweek.com/russia-linked-turla-cyberspies-add-more-malware-arsenal
+
+https://www.welivesecurity.com/2020/03/12/tracking-turla-new-backdoor-armenian-watering-holes/
