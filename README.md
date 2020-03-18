@@ -25,3 +25,5 @@ https://gbhackers.com/reductor-malware/
 https://securelist.com/compfun-successor-reductor/93633/?utm_source=newsletter&utm_medium=Email&utm_campaign=sl%20weekly%20digest
 
 https://www.itsecuritynews.info/russian-turla-apt-group-hacked-iranian-apt-c2-server-for-backdoor-access-to-expand-the-cyber-attack/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+ItSecurityNewsAggregated+%28IT+Security+News%29
+
+https://www.securityweek.com/russia-linked-turla-cyberspies-add-more-malware-arsenal
