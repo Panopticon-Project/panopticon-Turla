@@ -29,3 +29,5 @@ https://www.itsecuritynews.info/russian-turla-apt-group-hacked-iranian-apt-c2-se
 https://www.securityweek.com/russia-linked-turla-cyberspies-add-more-malware-arsenal
 
 https://www.welivesecurity.com/2020/03/12/tracking-turla-new-backdoor-armenian-watering-holes/
+
+https://www.us-cert.gov/ncas/current-activity/2019/10/21/nsa-and-ncsc-release-joint-advisory-turla-group-activity
