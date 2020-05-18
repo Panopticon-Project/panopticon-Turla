@@ -33,3 +33,5 @@ https://www.welivesecurity.com/2020/03/12/tracking-turla-new-backdoor-armenian-w
 https://www.us-cert.gov/ncas/current-activity/2019/10/21/nsa-and-ncsc-release-joint-advisory-turla-group-activity
 
 https://www.zdnet.com/article/russian-hacker-group-using-http-status-codes-to-control-malware-implants/
+
+https://securityaffairs.co/wordpress/103274/apt/turla-compfun-malware.html
