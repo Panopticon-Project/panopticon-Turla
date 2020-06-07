@@ -37,3 +37,5 @@ https://www.zdnet.com/article/russian-hacker-group-using-http-status-codes-to-co
 https://securityaffairs.co/wordpress/103274/apt/turla-compfun-malware.html
 
 https://threatpost.com/turla-apt-revamps-comrat/156051/
+
+https://www.welivesecurity.com/2020/05/26/agentbtz-comratv4-ten-year-journey/
