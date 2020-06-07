@@ -35,3 +35,5 @@ https://www.us-cert.gov/ncas/current-activity/2019/10/21/nsa-and-ncsc-release-jo
 https://www.zdnet.com/article/russian-hacker-group-using-http-status-codes-to-control-malware-implants/
 
 https://securityaffairs.co/wordpress/103274/apt/turla-compfun-malware.html
+
+https://threatpost.com/turla-apt-revamps-comrat/156051/
