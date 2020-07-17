@@ -39,3 +39,5 @@ https://securityaffairs.co/wordpress/103274/apt/turla-compfun-malware.html
 https://threatpost.com/turla-apt-revamps-comrat/156051/
 
 https://www.welivesecurity.com/2020/05/26/agentbtz-comratv4-ten-year-journey/
+
+https://www.telsy.com/turla-venomous-bear-updates-its-arsenal-newpass-appears-on-the-apt-threat-scene/
