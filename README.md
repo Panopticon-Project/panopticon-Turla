@@ -43,3 +43,5 @@ https://www.welivesecurity.com/2020/05/26/agentbtz-comratv4-ten-year-journey/
 https://www.telsy.com/turla-venomous-bear-updates-its-arsenal-newpass-appears-on-the-apt-threat-scene/
 
 https://www.securityweek.com/us-cyber-command-shares-more-russian-malware-samples
+
+https://securelist.com/an-overview-of-targeted-attacks-and-apts-on-linux/98440/
