@@ -45,3 +45,5 @@ https://www.telsy.com/turla-venomous-bear-updates-its-arsenal-newpass-appears-on
 https://www.securityweek.com/us-cyber-command-shares-more-russian-malware-samples
 
 https://securelist.com/an-overview-of-targeted-attacks-and-apts-on-linux/98440/
+
+https://www.scmagazine.com/home/security-news/apts-cyberespionage/backdoor-and-document-stealer-tied-to-russias-turla-group/
