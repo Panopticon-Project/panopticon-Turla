@@ -47,3 +47,5 @@ https://www.securityweek.com/us-cyber-command-shares-more-russian-malware-sample
 https://securelist.com/an-overview-of-targeted-attacks-and-apts-on-linux/98440/
 
 https://www.scmagazine.com/home/security-news/apts-cyberespionage/backdoor-and-document-stealer-tied-to-russias-turla-group/
+
+https://www.welivesecurity.com/2020/12/02/turla-crutch-keeping-back-door-open/
