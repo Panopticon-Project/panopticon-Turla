@@ -55,3 +55,5 @@ https://thehackernews.com/2020/12/experts-uncover-crutch-russian-malware.html
 https://www.welivesecurity.com/2020/12/02/turla-crutch-keeping-back-door-open/
 
 https://www.cyberscoop.com/turla-accenture-russia-europe-espionage/
+
+https://www.securityweek.com/us-cyber-command-shares-more-russian-malware-samples
