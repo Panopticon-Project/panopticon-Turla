@@ -59,3 +59,5 @@ https://www.cyberscoop.com/turla-accenture-russia-europe-espionage/
 https://www.securityweek.com/us-cyber-command-shares-more-russian-malware-samples
 
 https://www.securityweek.com/us-cyber-command-shares-more-russian-malware-samples
+
+https://securityaffairs.co/wordpress/110155/cyber-warfare-2/us-cyber-command-russia-implants.html
