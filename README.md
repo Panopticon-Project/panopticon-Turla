@@ -63,3 +63,5 @@ https://www.securityweek.com/us-cyber-command-shares-more-russian-malware-sample
 https://securityaffairs.co/wordpress/110155/cyber-warfare-2/us-cyber-command-russia-implants.html
 
 https://unit42.paloaltonetworks.com/ironnetinjector/
+
+https://www.securityweek.com/russia-linked-turla-apt-uses-new-backdoor-latest-attacks
