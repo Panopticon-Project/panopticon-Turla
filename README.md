@@ -65,3 +65,5 @@ https://securityaffairs.co/wordpress/110155/cyber-warfare-2/us-cyber-command-rus
 https://unit42.paloaltonetworks.com/ironnetinjector/
 
 https://www.securityweek.com/russia-linked-turla-apt-uses-new-backdoor-latest-attacks
+
+https://www.crysys.hu/publications/files/tedi/ukatemicrysys_territorialdispute.pdf
