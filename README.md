@@ -67,3 +67,5 @@ https://unit42.paloaltonetworks.com/ironnetinjector/
 https://www.securityweek.com/russia-linked-turla-apt-uses-new-backdoor-latest-attacks
 
 https://www.crysys.hu/publications/files/tedi/ukatemicrysys_territorialdispute.pdf
+
+http://www.spiegel.de/international/germany/cyber-espionage-likely-from-russia-targets-german-government-a-1196520.html
