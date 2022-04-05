@@ -69,3 +69,5 @@ https://www.securityweek.com/russia-linked-turla-apt-uses-new-backdoor-latest-at
 https://www.crysys.hu/publications/files/tedi/ukatemicrysys_territorialdispute.pdf
 
 http://www.spiegel.de/international/germany/cyber-espionage-likely-from-russia-targets-german-government-a-1196520.html
+
+https://www.securityweek.com/new-android-spyware-uses-turla-linked-infrastructure ??
