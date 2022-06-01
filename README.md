@@ -75,3 +75,5 @@ https://www.securityweek.com/new-android-spyware-uses-turla-linked-infrastructur
 https://blog.google/threat-analysis-group/update-on-cyber-activity-in-eastern-europe/
 
 https://blog.sekoia.io/turla-new-phishing-campaign-eastern-europe/?utm_source=substack&utm_medium=email
+
+https://securityaffairs.co/wordpress/131586/apt/turla-apt-austria-estonia-nato.html
